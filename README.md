@@ -1,2 +1,2 @@
 # Wigo.inc
-Wigo.Inc custom cuptive portal
+Wigo.Inc custom captive portal
